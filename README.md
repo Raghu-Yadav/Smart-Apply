@@ -2,7 +2,7 @@
 
 SmartApply is an intelligent RAG-based conversational agent that revolutionizes job searching and applications. With natural language queries, it discovers relevant jobs, guides through applications, and handles screening questions conversationally.
 
-![Technical Architecture](images/technical_architecture.png)
+![Technical Architecture](Images/technical_architecture.png)
 
 ## Project Layout
 
@@ -117,5 +117,6 @@ smartapply/
 **Sample Output**: Application stored in database with candidate info, resume, and screening responses.
 
 ---
+
 
 🚀 **SmartApply - The Future of Intelligent Job Applications!**
