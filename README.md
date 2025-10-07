@@ -48,7 +48,7 @@ The project is built with a modular three-layer architecture:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/smartapply.git
+   git clone https://github.com/Raghu-Yadav/Smart-Apply.git
    cd smartapply
 
 2. Create virtual environment:
@@ -120,3 +120,4 @@ smartapply/
 
 
 🚀 **SmartApply - The Future of Intelligent Job Applications!**
+
