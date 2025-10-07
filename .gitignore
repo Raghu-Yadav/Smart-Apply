@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+hire_venv/
+venv/
+
+# Environment variables  
+.env
+
+# FAISS index (large binaries)
+faiss_index/
+
+# Database
+*.db
+
+# API keys
+*_key.txt
