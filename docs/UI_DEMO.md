@@ -1,7 +1,7 @@
 # SmartApply - UI Walkthrough
 
 ## 1. Job Search Interface
-![Job Search Interface](Images/ui_search.png)
+![Job Search Interface](../Images/ui_search.png)
 *Smart semantic search with relevance scoring, filters, and quick apply functionality*
 
 ## 2. Application Form  
@@ -28,5 +28,6 @@
 2. **Apply & Submit**: Complete multi-step application with resume upload
 3. **Screen & Qualify**: Answer job-specific screening questions
 4. **Track & Manage**: Monitor application status and admin analytics
+
 
 [← Back to Main README](../README.md)
