@@ -1,0 +1,843 @@
+{
+  "jobs": [
+    {
+      "job_id": "JOB001",
+      "title": "Senior Machine Learning Engineer",
+      "company": "TechVision AI",
+      "location": "Bangalore, India",
+      "job_type": "Full-time",
+      "experience_required": "3-5 years",
+      "salary_range": "25-35 LPA",
+      "skills_required": ["Python", "PyTorch", "NLP", "MLOps", "Docker", "AWS"],
+      "description": "We are seeking a Senior ML Engineer to build and deploy cutting-edge NLP models. You'll work on large-scale text processing, sentiment analysis, and chatbot systems. The role involves designing ML pipelines, optimizing model performance, and collaborating with product teams to deliver AI-powered features.",
+      "responsibilities": [
+        "Design and implement ML models for production",
+        "Build scalable data pipelines",
+        "Deploy models using Docker and Kubernetes",
+        "Monitor and optimize model performance"
+      ],
+      "qualifications": [
+        "B.Tech/M.Tech in CS or related field",
+        "3+ years of ML engineering experience",
+        "Strong Python and deep learning skills"
+      ],
+      "screening_questions": [
+        {
+          "question": "Describe your experience with transformer models and their applications",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Have you deployed ML models to production serving 1M+ requests/day?",
+          "type": "yes_no",
+          "required": true
+        },
+        {
+          "question": "Which framework do you prefer for NLP tasks?",
+          "type": "multiple_choice",
+          "options": ["PyTorch", "TensorFlow", "JAX", "Other"],
+          "required": true
+        }
+      ],
+      "posted_date": "2024-01-15",
+      "application_deadline": "2024-02-15"
+    },
+    {
+      "job_id": "JOB002",
+      "title": "Data Scientist - Analytics",
+      "company": "FinTech Solutions",
+      "location": "Mumbai, India",
+      "job_type": "Full-time",
+      "experience_required": "2-4 years",
+      "salary_range": "18-25 LPA",
+      "skills_required": ["Python", "SQL", "Statistics", "Tableau", "Machine Learning"],
+      "description": "Join our data science team to drive business insights through advanced analytics. You'll analyze large datasets, build predictive models for customer behavior, and create dashboards for stakeholders. Experience with financial data and risk modeling is a plus.",
+      "responsibilities": [
+        "Analyze complex datasets to extract insights",
+        "Build predictive models for business metrics",
+        "Create interactive dashboards",
+        "Collaborate with business stakeholders"
+      ],
+      "qualifications": [
+        "Bachelor's/Master's in Statistics, Math, or CS",
+        "2+ years in data science role",
+        "Strong statistical knowledge"
+      ],
+      "screening_questions": [
+        {
+          "question": "Explain a complex analytical project you've completed",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Rate your SQL proficiency",
+          "type": "multiple_choice",
+          "options": ["Beginner", "Intermediate", "Advanced", "Expert"],
+          "required": true
+        },
+        {
+          "question": "Do you have experience with A/B testing?",
+          "type": "yes_no",
+          "required": true
+        }
+      ],
+      "posted_date": "2024-01-18",
+      "application_deadline": "2024-02-18"
+    },
+    {
+      "job_id": "JOB003",
+      "title": "Full Stack Developer",
+      "company": "WebCraft Technologies",
+      "location": "Hyderabad, India",
+      "job_type": "Full-time",
+      "experience_required": "3-6 years",
+      "salary_range": "20-30 LPA",
+      "skills_required": ["React", "Node.js", "MongoDB", "TypeScript", "AWS"],
+      "description": "We need a Full Stack Developer to build scalable web applications. You'll work on both frontend and backend, implementing features from design to deployment. Experience with microservices architecture and cloud platforms is essential.",
+      "responsibilities": [
+        "Develop responsive web applications",
+        "Design RESTful APIs",
+        "Implement database schemas",
+        "Ensure application security and performance"
+      ],
+      "qualifications": [
+        "B.Tech in Computer Science or equivalent",
+        "3+ years full stack experience",
+        "Strong JavaScript/TypeScript skills"
+      ],
+      "screening_questions": [
+        {
+          "question": "Describe your experience with microservices architecture",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Have you worked with CI/CD pipelines?",
+          "type": "yes_no",
+          "required": true
+        },
+        {
+          "question": "Years of React experience?",
+          "type": "multiple_choice",
+          "options": ["<1 year", "1-2 years", "2-4 years", "4+ years"],
+          "required": true
+        }
+      ],
+      "posted_date": "2024-01-20",
+      "application_deadline": "2024-02-20"
+    },
+    {
+      "job_id": "JOB004",
+      "title": "Junior AI Research Engineer",
+      "company": "DeepTech Labs",
+      "location": "Chennai, India",
+      "job_type": "Full-time",
+      "experience_required": "0-2 years",
+      "salary_range": "12-18 LPA",
+      "skills_required": ["Python", "Deep Learning", "Computer Vision", "TensorFlow", "Research"],
+      "description": "Join our AI research team to work on computer vision and deep learning projects. You'll implement research papers, conduct experiments, and contribute to cutting-edge AI solutions. Fresh graduates with strong ML fundamentals are welcome.",
+      "responsibilities": [
+        "Implement research papers",
+        "Run experiments and analyze results",
+        "Develop proof-of-concepts",
+        "Document research findings"
+      ],
+      "qualifications": [
+        "B.Tech/M.Tech in CS/AI",
+        "Strong mathematical foundation",
+        "Published research is a plus"
+      ],
+      "screening_questions": [
+        {
+          "question": "Which area of AI research interests you most and why?",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Have you implemented any research papers?",
+          "type": "yes_no",
+          "required": true
+        },
+        {
+          "question": "Familiar with GANs?",
+          "type": "yes_no",
+          "required": true
+        }
+      ],
+      "posted_date": "2024-01-22",
+      "application_deadline": "2024-02-22"
+    },
+    {
+      "job_id": "JOB005",
+      "title": "DevOps Engineer",
+      "company": "CloudScale Systems",
+      "location": "Pune, India",
+      "job_type": "Full-time",
+      "experience_required": "2-5 years",
+      "salary_range": "18-28 LPA",
+      "skills_required": ["Kubernetes", "Docker", "Jenkins", "AWS", "Terraform", "Python"],
+      "description": "We're looking for a DevOps Engineer to manage our cloud infrastructure and CI/CD pipelines. You'll automate deployments, monitor system performance, and ensure high availability of our services across multiple regions.",
+      "responsibilities": [
+        "Manage Kubernetes clusters",
+        "Automate infrastructure with Terraform",
+        "Build CI/CD pipelines",
+        "Monitor and optimize cloud costs"
+      ],
+      "qualifications": [
+        "B.Tech or equivalent",
+        "2+ years DevOps experience",
+        "AWS certification preferred"
+      ],
+      "screening_questions": [
+        {
+          "question": "Describe your experience with container orchestration",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Which CI/CD tools have you used?",
+          "type": "multiple_choice",
+          "options": ["Jenkins", "GitLab CI", "GitHub Actions", "All of the above"],
+          "required": true
+        },
+        {
+          "question": "Do you have experience with Infrastructure as Code?",
+          "type": "yes_no",
+          "required": true
+        }
+      ],
+      "posted_date": "2024-01-25",
+      "application_deadline": "2024-02-25"
+    },
+    {
+      "job_id": "JOB006",
+      "title": "Senior Data Engineer",
+      "company": "DataFlow Analytics",
+      "location": "Bangalore, India",
+      "job_type": "Full-time",
+      "experience_required": "4-7 years",
+      "salary_range": "28-40 LPA",
+      "skills_required": ["Spark", "Airflow", "Python", "SQL", "AWS", "Kafka"],
+      "description": "Lead our data engineering initiatives to build robust data pipelines and warehouses. You'll design data architectures, implement ETL processes, and ensure data quality for analytics and ML teams.",
+      "responsibilities": [
+        "Design scalable data architectures",
+        "Build real-time data pipelines",
+        "Optimize Spark jobs",
+        "Implement data governance"
+      ],
+      "qualifications": [
+        "B.Tech/M.Tech in CS",
+        "4+ years data engineering experience",
+        "Experience with big data technologies"
+      ],
+      "screening_questions": [
+        {
+          "question": "Explain your approach to handling data at petabyte scale",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Have you worked with streaming data?",
+          "type": "yes_no",
+          "required": true
+        },
+        {
+          "question": "Proficiency in Apache Spark?",
+          "type": "multiple_choice",
+          "options": ["Beginner", "Intermediate", "Advanced", "Expert"],
+          "required": true
+        }
+      ],
+      "posted_date": "2024-01-28",
+      "application_deadline": "2024-02-28"
+    },
+    {
+      "job_id": "JOB007",
+      "title": "NLP Engineer",
+      "company": "LangTech Solutions",
+      "location": "Remote",
+      "job_type": "Full-time",
+      "experience_required": "2-4 years",
+      "salary_range": "22-32 LPA",
+      "skills_required": ["NLP", "Python", "Transformers", "LangChain", "BERT", "GPT"],
+      "description": "Build state-of-the-art NLP solutions for text understanding, generation, and conversation systems. You'll work with LLMs, fine-tune models, and develop production-ready NLP applications.",
+      "responsibilities": [
+        "Fine-tune language models",
+        "Build text classification systems",
+        "Develop chatbot solutions",
+        "Optimize inference performance"
+      ],
+      "qualifications": [
+        "Degree in CS/AI/Linguistics",
+        "2+ years NLP experience",
+        "Experience with transformers"
+      ],
+      "screening_questions": [
+        {
+          "question": "Describe your experience with fine-tuning LLMs",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Have you worked with LangChain or similar frameworks?",
+          "type": "yes_no",
+          "required": true
+        },
+        {
+          "question": "Which NLP task is your expertise?",
+          "type": "multiple_choice",
+          "options": ["Classification", "NER", "Generation", "All"],
+          "required": true
+        }
+      ],
+      "posted_date": "2024-02-01",
+      "application_deadline": "2024-03-01"
+    },
+    {
+      "job_id": "JOB008",
+      "title": "Backend Engineer",
+      "company": "API Masters",
+      "location": "Delhi NCR",
+      "job_type": "Full-time",
+      "experience_required": "3-5 years",
+      "salary_range": "20-28 LPA",
+      "skills_required": ["Java", "Spring Boot", "PostgreSQL", "Redis", "Microservices"],
+      "description": "Design and develop high-performance backend services handling millions of requests. You'll build RESTful APIs, optimize database queries, and ensure system reliability and scalability.",
+      "responsibilities": [
+        "Design scalable APIs",
+        "Implement microservices",
+        "Optimize database performance",
+        "Write unit and integration tests"
+      ],
+      "qualifications": [
+        "B.Tech in Computer Science",
+        "3+ years backend development",
+        "Strong Java/Spring expertise"
+      ],
+      "screening_questions": [
+        {
+          "question": "How do you ensure API security and performance?",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Experience with message queues?",
+          "type": "yes_no",
+          "required": true
+        },
+        {
+          "question": "Database expertise level?",
+          "type": "multiple_choice",
+          "options": ["SQL only", "NoSQL only", "Both SQL and NoSQL", "Limited"],
+          "required": true
+        }
+      ],
+      "posted_date": "2024-02-03",
+      "application_deadline": "2024-03-03"
+    },
+    {
+      "job_id": "JOB009",
+      "title": "Computer Vision Engineer",
+      "company": "VisionAI Corp",
+      "location": "Bangalore, India",
+      "job_type": "Full-time",
+      "experience_required": "2-5 years",
+      "salary_range": "24-35 LPA",
+      "skills_required": ["OpenCV", "PyTorch", "YOLO", "Python", "Deep Learning", "C++"],
+      "description": "Develop computer vision solutions for object detection, tracking, and segmentation. Work on real-time video processing, edge deployment, and optimization of vision models for production use cases.",
+      "responsibilities": [
+        "Implement object detection models",
+        "Optimize models for edge devices",
+        "Develop video analytics pipelines",
+        "Research latest CV techniques"
+      ],
+      "qualifications": [
+        "B.Tech/M.Tech in CS/ECE",
+        "2+ years in computer vision",
+        "Experience with deep learning"
+      ],
+      "screening_questions": [
+        {
+          "question": "Describe a challenging computer vision project you've completed",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Have you deployed CV models on edge devices?",
+          "type": "yes_no",
+          "required": true
+        },
+        {
+          "question": "Familiar with which detection framework?",
+          "type": "multiple_choice",
+          "options": ["YOLO", "R-CNN", "SSD", "All of them"],
+          "required": true
+        }
+      ],
+      "posted_date": "2024-02-05",
+      "application_deadline": "2024-03-05"
+    },
+    {
+      "job_id": "JOB010",
+      "title": "MLOps Engineer",
+      "company": "AI Pipeline Inc",
+      "location": "Hyderabad, India",
+      "job_type": "Full-time",
+      "experience_required": "3-6 years",
+      "salary_range": "25-38 LPA",
+      "skills_required": ["MLflow", "Kubeflow", "Docker", "Python", "AWS SageMaker", "CI/CD"],
+      "description": "Build and maintain ML infrastructure for model training, deployment, and monitoring. You'll create automated ML pipelines, implement model versioning, and ensure reproducibility of experiments.",
+      "responsibilities": [
+        "Build ML pipelines",
+        "Implement model monitoring",
+        "Automate model deployment",
+        "Manage experiment tracking"
+      ],
+      "qualifications": [
+        "Engineering degree",
+        "3+ years MLOps/DevOps experience",
+        "ML and cloud expertise"
+      ],
+      "screening_questions": [
+        {
+          "question": "How do you handle model drift in production?",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Experience with A/B testing for ML models?",
+          "type": "yes_no",
+          "required": true
+        },
+        {
+          "question": "Which MLOps platform have you used?",
+          "type": "multiple_choice",
+          "options": ["MLflow", "Kubeflow", "SageMaker", "Custom built"],
+          "required": true
+        }
+      ],
+      "posted_date": "2024-02-08",
+      "application_deadline": "2024-03-08"
+    },
+    {
+      "job_id": "JOB011",
+      "title": "Frontend Developer",
+      "company": "UIX Design Studio",
+      "location": "Mumbai, India",
+      "job_type": "Full-time",
+      "experience_required": "2-4 years",
+      "salary_range": "15-22 LPA",
+      "skills_required": ["React", "TypeScript", "CSS", "Redux", "Jest", "Webpack"],
+      "description": "Create beautiful and performant user interfaces for web applications. You'll work closely with designers to implement pixel-perfect designs and ensure smooth user experiences across devices.",
+      "responsibilities": [
+        "Build responsive UI components",
+        "Optimize frontend performance",
+        "Implement state management",
+        "Write frontend tests"
+      ],
+      "qualifications": [
+        "Bachelor's degree",
+        "2+ years frontend experience",
+        "Strong React and CSS skills"
+      ],
+      "screening_questions": [
+        {
+          "question": "How do you optimize React app performance?",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Experience with CSS-in-JS libraries?",
+          "type": "yes_no",
+          "required": true
+        },
+        {
+          "question": "Preferred state management?",
+          "type": "multiple_choice",
+          "options": ["Redux", "MobX", "Context API", "Zustand"],
+          "required": true
+        }
+      ],
+      "posted_date": "2024-02-10",
+      "application_deadline": "2024-03-10"
+    },
+    {
+      "job_id": "JOB012",
+      "title": "Data Analyst",
+      "company": "Insights Pro",
+      "location": "Pune, India",
+      "job_type": "Full-time",
+      "experience_required": "1-3 years",
+      "salary_range": "8-15 LPA",
+      "skills_required": ["SQL", "Excel", "Python", "Tableau", "Statistics", "Power BI"],
+      "description": "Transform data into actionable business insights. You'll analyze datasets, create reports and dashboards, and present findings to stakeholders to drive data-driven decision making.",
+      "responsibilities": [
+        "Analyze business metrics",
+        "Create interactive dashboards",
+        "Generate weekly reports",
+        "Present insights to stakeholders"
+      ],
+      "qualifications": [
+        "Bachelor's in any field",
+        "1+ years analytics experience",
+        "Strong SQL and Excel skills"
+      ],
+      "screening_questions": [
+        {
+          "question": "Describe how you've influenced business decisions with data",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Proficient in advanced Excel functions?",
+          "type": "yes_no",
+          "required": true
+        },
+        {
+          "question": "SQL skill level?",
+          "type": "multiple_choice",
+          "options": ["Basic", "Intermediate", "Advanced", "Expert"],
+          "required": true
+        }
+      ],
+      "posted_date": "2024-02-12",
+      "application_deadline": "2024-03-12"
+    },
+    {
+      "job_id": "JOB013",
+      "title": "Cloud Architect",
+      "company": "CloudFirst Solutions",
+      "location": "Chennai, India",
+      "job_type": "Full-time",
+      "experience_required": "5-8 years",
+      "salary_range": "35-50 LPA",
+      "skills_required": ["AWS", "Azure", "Terraform", "Python", "Security", "Architecture"],
+      "description": "Design and implement cloud solutions for enterprise clients. You'll create cloud architectures, ensure security compliance, and lead cloud migration projects for complex applications.",
+      "responsibilities": [
+        "Design cloud architectures",
+        "Lead migration projects",
+        "Implement security best practices",
+        "Optimize cloud costs"
+      ],
+      "qualifications": [
+        "B.Tech/M.Tech",
+        "5+ years cloud experience",
+        "Cloud certifications required"
+      ],
+      "screening_questions": [
+        {
+          "question": "Describe a complex cloud migration you've led",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Multi-cloud experience?",
+          "type": "yes_no",
+          "required": true
+        },
+        {
+          "question": "Which certifications do you hold?",
+          "type": "multiple_choice",
+          "options": ["AWS Solutions Architect", "Azure Architect", "GCP Architect", "Multiple"],
+          "required": true
+        }
+      ],
+      "posted_date": "2024-02-15",
+      "application_deadline": "2024-03-15"
+    },
+    {
+      "job_id": "JOB014",
+      "title": "Blockchain Developer",
+      "company": "DeFi Innovations",
+      "location": "Remote",
+      "job_type": "Full-time",
+      "experience_required": "2-5 years",
+      "salary_range": "30-45 LPA",
+      "skills_required": ["Solidity", "Web3", "Ethereum", "JavaScript", "Smart Contracts", "DeFi"],
+      "description": "Build decentralized applications and smart contracts on blockchain platforms. You'll develop DeFi protocols, ensure security of contracts, and integrate blockchain solutions with traditional systems.",
+      "responsibilities": [
+        "Develop smart contracts",
+        "Audit contract security",
+        "Build DeFi applications",
+        "Integrate Web3 solutions"
+      ],
+      "qualifications": [
+        "CS degree preferred",
+        "2+ years blockchain experience",
+        "Solidity expertise required"
+      ],
+      "screening_questions": [
+        {
+          "question": "Explain a smart contract vulnerability and how to prevent it",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Have you audited smart contracts?",
+          "type": "yes_no",
+          "required": true
+        },
+        {
+          "question": "Experience with which blockchain?",
+          "type": "multiple_choice",
+          "options": ["Ethereum", "Polygon", "Binance Smart Chain", "Multiple"],
+          "required": true
+        }
+      ],
+      "posted_date": "2024-02-18",
+      "application_deadline": "2024-03-18"
+    },
+    {
+      "job_id": "JOB015",
+      "title": "Security Engineer",
+      "company": "CyberShield Tech",
+      "location": "Delhi NCR",
+      "job_type": "Full-time",
+      "experience_required": "3-6 years",
+      "salary_range": "22-35 LPA",
+      "skills_required": ["Security", "Python", "Penetration Testing", "SIEM", "Cloud Security", "DevSecOps"],
+      "description": "Protect our systems from cyber threats. You'll conduct security assessments, implement security controls, respond to incidents, and ensure compliance with security standards.",
+      "responsibilities": [
+        "Perform security audits",
+        "Implement security controls",
+        "Respond to security incidents",
+        "Conduct penetration testing"
+      ],
+      "qualifications": [
+        "B.Tech or equivalent",
+        "3+ years security experience",
+        "Security certifications preferred"
+      ],
+      "screening_questions": [
+        {
+          "question": "Describe a security incident you've handled",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Experience with bug bounty programs?",
+          "type": "yes_no",
+          "required": true
+        },
+        {
+          "question": "Which area is your expertise?",
+          "type": "multiple_choice",
+          "options": ["Application Security", "Network Security", "Cloud Security", "All areas"],
+          "required": true
+        }
+      ],
+      "posted_date": "2024-02-20",
+      "application_deadline": "2024-03-20"
+    },
+    {
+      "job_id": "JOB016",
+      "title": "iOS Developer",
+      "company": "MobileFirst Apps",
+      "location": "Bangalore, India",
+      "job_type": "Full-time",
+      "experience_required": "2-5 years",
+      "salary_range": "18-28 LPA",
+      "skills_required": ["Swift", "iOS", "Xcode", "UIKit", "SwiftUI", "Core Data"],
+      "description": "Build innovative iOS applications with great user experience. You'll develop features from scratch, optimize app performance, and work with designers to create beautiful interfaces.",
+      "responsibilities": [
+        "Develop iOS applications",
+        "Implement UI/UX designs",
+        "Optimize app performance",
+        "Integrate REST APIs"
+      ],
+      "qualifications": [
+        "Bachelor's degree",
+        "2+ years iOS development",
+        "Published apps on App Store"
+      ],
+      "screening_questions": [
+        {
+          "question": "Describe your most successful iOS app",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Experience with SwiftUI?",
+          "type": "yes_no",
+          "required": true
+        },
+        {
+          "question": "How many apps have you published?",
+          "type": "multiple_choice",
+          "options": ["1-2", "3-5", "6-10", "10+"],
+          "required": true
+        }
+      ],
+      "posted_date": "2024-02-22",
+      "application_deadline": "2024-03-22"
+    },
+    {
+      "job_id": "JOB017",
+      "title": "Android Developer",
+      "company": "AppCraft Studios",
+      "location": "Hyderabad, India",
+      "job_type": "Full-time",
+      "experience_required": "2-4 years",
+      "salary_range": "16-24 LPA",
+      "skills_required": ["Kotlin", "Android", "Java", "MVVM", "Jetpack Compose", "Firebase"],
+      "description": "Create cutting-edge Android applications used by millions. You'll work on new features, improve app architecture, and ensure smooth performance across different Android devices.",
+      "responsibilities": [
+        "Build Android applications",
+        "Implement material design",
+        "Optimize for different devices",
+        "Write clean, maintainable code"
+      ],
+      "qualifications": [
+        "B.Tech or equivalent",
+        "2+ years Android experience",
+        "Strong Kotlin skills"
+      ],
+      "screening_questions": [
+        {
+          "question": "How do you handle Android fragmentation?",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Used Jetpack Compose?",
+          "type": "yes_no",
+          "required": true
+        },
+        {
+          "question": "Preferred architecture pattern?",
+          "type": "multiple_choice",
+          "options": ["MVC", "MVP", "MVVM", "MVI"],
+          "required": true
+        }
+      ],
+      "posted_date": "2024-02-25",
+      "application_deadline": "2024-03-25"
+    },
+    {
+      "job_id": "JOB018",
+      "title": "QA Automation Engineer",
+      "company": "TestPro Solutions",
+      "location": "Pune, India",
+      "job_type": "Full-time",
+      "experience_required": "2-5 years",
+      "salary_range": "12-20 LPA",
+      "skills_required": ["Selenium", "Python", "TestNG", "Jenkins", "API Testing", "Cypress"],
+      "description": "Design and implement automated testing frameworks. You'll create test scripts, maintain test suites, and ensure product quality through comprehensive testing strategies.",
+      "responsibilities": [
+        "Build automation frameworks",
+        "Write test scripts",
+        "Perform API testing",
+        "Report and track bugs"
+      ],
+      "qualifications": [
+        "Bachelor's degree",
+        "2+ years automation testing",
+        "Programming skills required"
+      ],
+      "screening_questions": [
+        {
+          "question": "Describe your approach to test automation strategy",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Experience with performance testing?",
+          "type": "yes_no",
+          "required": true
+        },
+        {
+          "question": "Primary automation tool?",
+          "type": "multiple_choice",
+          "options": ["Selenium", "Cypress", "Playwright", "Multiple tools"],
+          "required": true
+        }
+      ],
+      "posted_date": "2024-02-27",
+      "application_deadline": "2024-03-27"
+    },
+    {
+      "job_id": "JOB019",
+      "title": "Product Manager - AI Products",
+      "company": "ProductVision AI",
+      "location": "Bangalore, India",
+      "job_type": "Full-time",
+      "experience_required": "4-7 years",
+      "salary_range": "30-45 LPA",
+      "skills_required": ["Product Management", "AI/ML", "Analytics", "Agile", "Strategy", "SQL"],
+      "description": "Lead AI product development from concept to launch. You'll define product vision, work with engineering teams, analyze user data, and drive product strategy for AI-powered features.",
+      "responsibilities": [
+        "Define product roadmap",
+        "Conduct user research",
+        "Prioritize features",
+        "Measure product success"
+      ],
+      "qualifications": [
+        "MBA preferred",
+        "4+ years product management",
+        "Technical background helpful"
+      ],
+      "screening_questions": [
+        {
+          "question": "Describe an AI product you've successfully launched",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Do you have technical background in AI/ML?",
+          "type": "yes_no",
+          "required": true
+        },
+        {
+          "question": "Product metrics expertise?",
+          "type": "multiple_choice",
+          "options": ["Basic", "Intermediate", "Advanced", "Expert"],
+          "required": true
+        }
+      ],
+      "posted_date": "2024-03-01",
+      "application_deadline": "2024-04-01"
+    },
+    {
+      "job_id": "JOB020",
+      "title": "Technical Lead - Full Stack",
+      "company": "TechLeaders Inc",
+      "location": "Mumbai, India",
+      "job_type": "Full-time",
+      "experience_required": "6-10 years",
+      "salary_range": "35-55 LPA",
+      "skills_required": ["Leadership", "System Design", "Java", "React", "AWS", "Microservices"],
+      "description": "Lead a team of engineers to deliver complex full-stack projects. You'll architect solutions, mentor developers, conduct code reviews, and ensure technical excellence while managing stakeholder expectations.",
+      "responsibilities": [
+        "Lead team of 8-10 developers",
+        "Design system architecture",
+        "Conduct code reviews",
+        "Interface with stakeholders"
+      ],
+      "qualifications": [
+        "B.Tech/M.Tech in CS",
+        "6+ years with 2+ in leadership",
+        "Full stack expertise required"
+      ],
+      "screening_questions": [
+        {
+          "question": "Describe your experience leading technical teams",
+          "type": "text",
+          "required": true
+        },
+        {
+          "question": "Have you designed systems handling 1M+ users?",
+          "type": "yes_no",
+          "required": true
+        },
+        {
+          "question": "Team size you've managed?",
+          "type": "multiple_choice",
+          "options": ["2-5", "5-10", "10-20", "20+"],
+          "required": true
+        }
+      ],
+      "posted_date": "2024-03-03",
+      "application_deadline": "2024-04-03"
+    }
+  ]
+}
